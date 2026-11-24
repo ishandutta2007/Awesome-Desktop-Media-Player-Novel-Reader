@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF88Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Media-Player-Novel-Reader"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Media-Player-Novel-Reader?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Media-Player-Novel-Reader"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Media-Player-Novel-Reader?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Media-Player-Novel-Reader/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Desktop-Media-Player-Novel-Reader?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Media-Player-Novel-Reader/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -69,9 +69,9 @@ The following table presents notable commercial platforms, cloud streaming serve
 
 ## 💻 Open-Source GitHub Projects 🔓
 
-Each open-source tool below is equipped with a direct **GitHub Star Badge** (linking to its official stargazers page) and sorted in **descending order by GitHub star count**.
+Each open-source tool below is equipped with a direct **GitHub Stars_Badge** (linking to its official stargazers page) and sorted in **descending order by GitHub Stars_Count**.
 
-| Rank | Project & Repository | GitHub Stars (Live Badge) | Primary Focus & Capabilities |
+| Rank | Project & Repository | GitHub_Stars (Live Badge) | Primary Focus & Capabilities |
 | :---: | :--- | :---: | :--- |
 | 1 | 📥 **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** | [![yt-dlp Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social&color=white)](https://github.com/yt-dlp/yt-dlp/stargazers) | Premier command-line media downloader for extracting streaming video, audio, and subtitle streams from thousands of web portals into desktop players. |
 | 2 | 📺 **[Jellyfin](https://github.com/jellyfin/jellyfin)** | [![Jellyfin Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers) | Flagship 100% free software media server with zero licensing costs, zero telemetry, hardware GPU transcoding (NVENC/VAAPI/AMF), and integrated EPUB/comic reader. |
@@ -118,7 +118,7 @@ Contributions are warmly welcomed! To suggest a new desktop player, novel reader
 
 1. 🍴 Fork this repository.
 2. 📝 Add your tool to either the **SaaS/Hosted Platforms** table or the **Open-Source GitHub Projects** table following the established column conventions.
-3. 🏷️ Ensure all pricing, star badges, and links are accurate and factual.
+3. 🏷️ Ensure all pricing, Stars_Badges, and links are accurate and factual.
 4. 🚀 Submit a Pull Request with a succinct description of why the tool is beneficial to the community.
 
 ---
