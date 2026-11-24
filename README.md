@@ -125,10 +125,13 @@ Contributions are warmly welcomed! To suggest a new desktop player, novel reader
 
 ## ☕ Support & Share 💖
 
-If you find this curated collection useful, please consider:
-- ⭐ **Starring this repository** on GitHub.
-- 📣 Sharing with your homelab, anime, and reading groups on Reddit, Discord, and X/Twitter.
-- ☕ Sponsoring ongoing curation on [GitHub Sponsors](https://github.com/ishandutta2007).
+A huge thank you to everyone exploring, using, and contributing to this ecosystem! If you find this curated collection helpful in discovering desktop players, novel readers, and homelab streaming setups, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork & Share** it with your developer, homelab, anime, and reading communities on Discord, Reddit, and X/Twitter.
+- ☕ **Buy me a coffee / Sponsor** my open-source work via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) — every bit of support helps keep this list maintained, verified, and continuously up to date!
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
 
 ---
 
